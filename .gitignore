@@ -1,5 +1,5 @@
 /Training-backend/node_modules
 /Training-frontend/node_modules
-
+/Training-frontend/build
 .env
 Procfile
