@@ -4,12 +4,12 @@
   "description": "Login authentication",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js ",
-    "server": "nodemon server.js ",
-    "client-install": "npm install --prefix ../Training-frontend",
-    "client": "npm start --prefix ../Training-frontend",
+    "start": "node  Training-backend/server ",
+    "server": "nodemon Training-backend/server ",
+    "client-install": "npm install --prefix Training-frontend",
+    "client": "npm start --prefix Training-frontend",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix ../Training-frontend && npm run build --prefix ../Training-frontend"
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix Training-frontend && npm run build --prefix Training-frontend"
   },
   "author": "",
   "license": "",
