@@ -5,6 +5,7 @@ const usersRouter = require("./routes/api/users");
 const config = require('config');
 const app = express();
 require('dotenv').config;
+const path = require('path');
 
 const Schedule = require("./models/scheduleSchema")
 const Course = require("./models/courseSchema")
