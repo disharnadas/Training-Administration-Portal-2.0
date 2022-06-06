@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-import Navbar from '../Navbar/Navbar';
+
 import './Home.css';
 
 class Home extends Component {
   render() {
     return (
       <div>
-        <Navbar/>
+        
       <section id="banner" className="banner">
         <div className="container p-0">
           <div className="row">

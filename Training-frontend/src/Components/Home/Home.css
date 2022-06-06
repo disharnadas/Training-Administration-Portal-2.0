@@ -5,6 +5,7 @@
     width: 100%;
     color: #f8f8f8 !important;
     position: relative;
+    background-image: url('../../../assets/Background_1.jpg');
 }
 
 #banner::after {
