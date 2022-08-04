@@ -1,5 +1,5 @@
 {
-  "name": "Training admin portal Authentication",
+  "name": "trainingportal",
   "version": "1.0.0",
   "description": "Login authentication",
   "main": "server.js",
