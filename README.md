@@ -48,9 +48,9 @@ For any issues please contact us on Github or send us an e-mail at disharnadas@p
 
 
 
-* [Alok Baluni](https://github.com/Alok-712001-Baluni)
+
 * [Disharna Das](https://github.com/disharnadas)
-* [Khusboo Mudgal](https://github.com/khushboosharma297)
+
 
 
 ## License
